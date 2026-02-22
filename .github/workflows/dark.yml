@@ -26,7 +26,7 @@ jobs:
       with:
         colors: dark-dimmed
         custom-title: My GitHub Statistics
-        hide-keys: joined, mostStarred, followers, following, mostForked, contribTo, public, starredBy, watchedBy, commits, prs, private
+        hide-keys: joined, mostStarred, followers, following, mostForked, contribTo, public, starredBy, watchedBy
         max-languages: 8
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
