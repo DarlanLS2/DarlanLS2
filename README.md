@@ -1,7 +1,9 @@
 ## Hi <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="33" alt="handwavegif" align="top"/> I'm Darlan
 Full Stack Developer focused on TypeScript, Node.js and React.
 
-Based in Brazil 🇧🇷, currently studying Systems Analysis and Development, with a technical background in Software Development.
+Based in Brazil 🇧🇷 <br>
+Currently studying Systems Analysis and Development (ADS) at [UNIP](https://www.unip.br/) <br>
+Technical degree in Software Development (DS) from [ETEC](https://www.cps.sp.gov.br/)
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjbzI3Y3g3YzNtdG83b290bDI1MW41aXh3OWk2Yzd3czQyZG94bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kL3ZvNKk4hyR1B8hVt/giphy.gif" width="27" alt="Hammer GIF" align="top"/> Technologies I've been learning and using so far
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
